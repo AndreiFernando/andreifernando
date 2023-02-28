@@ -3,7 +3,8 @@
 ## me chamo Andrei,
 
 Tenho 29 anos, moro em São Paulo/SP, sou formado em administração e pós graduado em gestão de pessoas, atualmente estou mergulhando no universo da programação!
-Sou iniciante neste univeso, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
+Sou iniciante neste meio e, quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
+
 
 ## 🖥️ Ferramentas e tecnologias
 
@@ -11,8 +12,6 @@ Sou iniciante neste univeso, e quanto mais eu aprendo e passo raiva, mais eu amo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
 
-
-     
           
 ## 🖥️ Atualmente estou aprendendo
 
