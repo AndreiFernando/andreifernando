@@ -15,7 +15,7 @@ Sou iniciante neste univeso, e quanto mais eu aprendo e passo raiva, mais eu amo
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
           
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+     
           
 ## 🖥️ Atualmente estou aprendendo
 
@@ -30,5 +30,5 @@ Sou iniciante neste univeso, e quanto mais eu aprendo e passo raiva, mais eu amo
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreiFernando&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/AndreiFernando/AndreiFernando/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AndreiFernando/blob/output/github-contribution-grid-snake.svg)
 
